@@ -35,7 +35,7 @@ app.use(express.json());
 
 // Test Route
 app.get("/", (req, res) => {
-    res.send("Welcome to the Coffee App");
+    res.send("Traxercise");
 });
 
 // Index Route
